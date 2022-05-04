@@ -13,7 +13,7 @@ Segundo mini proyecto utilizando JS
 >  <img style="width:10%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
 <br/>
 
-### 🔗 ¡Podes ingresar a mi portfolio desde <a href="https://portfolio-bl.netlify.app/">aca</a>!
+### 🔗 ¡Podes ingresar a mi portfolio desde <a href="https://brendalamas.github.io/contador-miniproyectoJS/">aca</a>!
 
 ### 📸 Algunas imagenes del proyecto:
 <img src="https://user-images.githubusercontent.com/74736159/166716771-77772733-e5a9-4a58-a052-6f027b38e3a2.png"/>
