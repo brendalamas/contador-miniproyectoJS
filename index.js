@@ -21,7 +21,7 @@ btns.forEach( (btn) =>
         }else if(count<0){
             value.style.color="red"
         }else if(count === 0){
-            value.style.color="black"
+            value.style.color="white"
         }
     }
 )
